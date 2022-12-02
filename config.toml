@@ -1,0 +1,6 @@
+baseURL = "https://seansie0830.github.io"
+languageCode = 'en-us'
+title = 'seansie blog'
+theme = "noteworthy"
+[params]
+	github = "https://github.com/seansie0830"
